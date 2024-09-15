@@ -1,2 +1,15 @@
 This project involved reading tweets from a file, and a list of words with sentiment values.
 Then, it will calculate the sentiment value of the tweets based on the words in the sentence.
+Learning outcomes:
+Using functions
+Complex data structures
+Dictionaries and lists
+Text processing
+Working with TSV and CSV files
+File input and output
+Exceptions in Python
+Using Python simple modules
+Testing programs and developing test cases; adhering to specifications
+Writing code that is used by other programs
+Working with real world data
+Reviewing past concepts such as Ifs, Loops, and I/O
