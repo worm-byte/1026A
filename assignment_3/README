@@ -1,0 +1,2 @@
+This project involved reading tweets from a file, and a list of words with sentiment values.
+Then, it will calculate the sentiment value of the tweets based on the words in the sentence.
