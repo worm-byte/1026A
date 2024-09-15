@@ -1,0 +1,9 @@
+This assignment was to create a library system using a dictionary where
+I would practice:
+- Creating functions
+- Calling functions and using return values
+- Using a function from a separate Python file (multi-file program)
+- User input in a loop
+- Conditionals
+- Lists and tuples
+- String formatting for clean output
