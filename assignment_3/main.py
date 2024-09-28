@@ -1,6 +1,4 @@
 """
-Rosaline Scully
-250966670, rscully5, November 11, 2023
 
 This file runs the program, asking for input, with imported functions from sentiment_analysis.
 It does some exception handling to ensure there is proper input.
