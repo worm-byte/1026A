@@ -1,11 +1,4 @@
-'''
-CS1026a 2023
-Assignment 01 Project 01 - Part C
-Rosaline Scully
-250966670
-rscully5
-October 2, 2023
-'''
+
 
 '''
 This code will display the rate of increase 
