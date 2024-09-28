@@ -1,11 +1,4 @@
-'''
-CS1026a 2023
-Assignment 02
-Rosaline Scully
-250966670
-rscully5
-October 18, 2023
-'''
+
 
 '''
 This code is a virtual library where you can add books, borrow books,
