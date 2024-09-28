@@ -1,6 +1,4 @@
 """
-Rosaline Scully
-250966670, rscully5, December 03, 2023
 
 This file simulates a shopping cart, with different
 objects for product, inventory, catalog, and cart.
