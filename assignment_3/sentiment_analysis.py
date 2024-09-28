@@ -1,6 +1,4 @@
 """
-Rosaline Scully
-250966670, rscully5, November 11, 2023
 
 This file has multiple functions that make a keyword dictionary,
 cleans the tweets, calculates the sentiment and classifies it,
